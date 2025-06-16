@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Header from  './components/Header';
-import MovieList from  './components/MovieList';
-import MovieDetail from  './components/MovieDetail';
-import Recommendations from   './components/Recommendations';
+import Header from   './components/Header';
+import MovieList from    './components/MovieList';
+import MovieDetail from    './components/MovieDetail';
+import Recommendations from     './components/Recommendations';
 import type { Movie } from './types/Movie';
 import { movieService } from   './services/movieService';
 
