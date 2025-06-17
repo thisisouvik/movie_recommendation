@@ -631,6 +631,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-[ Star this repo](https://github.com/yourusername/movierecom) • [ Report Bug](https://github.com/yourusername/movierecom/issues) • [ Request Feature](https://github.com/yourusername/movierecom/issues)
+[ Star this repo](https://github.com/thisisouvik/movie_recommendation) • [ Report Bug](https://github.com/thisisouvik/movie_recommendation/issues) • [ Request Feature](https://github.com/thisisouvik/movie_recommendation/issues)
 
 </div>
